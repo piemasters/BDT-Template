@@ -1,4 +1,4 @@
-# Cucumber Python Skeleton
+# BDT Template
 
 - [Setup Python Environment](python-setup)
 - [IntelliJ Setup](intellij-setup)
@@ -7,8 +7,8 @@
 - [Creating & Updating a Python Environment](python-env)
 
 
-This project is an example of how you should structure a Python project with BDT.
-The project uses '[Behave](https://behave.readthedocs.io/en/latest/).
+This is a template automation testing project using Python and Cucumber with
+[Behave](https://behave.readthedocs.io/en/latest/).
  
 You must first setup a Python Anaconda environment to use this project. 
 Steps on how to do this are listed below.
